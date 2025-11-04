@@ -1,7 +1,14 @@
-## hi, i'm thomas 👋 
-<p align="center">
-  math @ uwaterloo
-</p>
+<div align="center">
+  <h1> <strong>hi, i'm thomas 👋 </strong></h1>
+  <h4>
+    - math @ uwaterloo
+  </h4>
+  <h4>
+    - seeking summer 2026 internships
+  </h4>
+</div>
+
+
 
 <!--
 **forkiron/forkiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
