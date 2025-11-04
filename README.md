@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## hi, i'm thomas 👋 
+math @ uwaterloo
 <!--
 **forkiron/forkiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
