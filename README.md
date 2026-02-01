@@ -6,9 +6,10 @@
   <h4>
     - seeking summer 2026 internships
   </h4>
+  
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=forkiron&color=green)
 
 <!--
 **forkiron/forkiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
