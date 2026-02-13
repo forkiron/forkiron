@@ -3,9 +3,7 @@
   <h4>
     - math @ uwaterloo
   </h4>
-  <h4>
-    - seeking summer 2026 internships
-  </h4>
+ 
   
 </div>
 
