@@ -1,7 +1,7 @@
 <div align="center">
   <h1> <strong>hi, i'm thomas 👋 </strong></h1>
   <h4>
-    - math @ uwaterloo
+    math @ uwaterloo, i like product and consumer tech
   </h4>
  
   
