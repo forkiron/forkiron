@@ -3,7 +3,7 @@
   <p>
     @university of waterloo
 
-    reach out: thomaslenh@gmail.com
+    thomaslenh@gmail.com
   </p>
  
   
