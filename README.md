@@ -2,6 +2,8 @@
   <h1> <strong>👋 hi, i'm thomas </strong></h1>
   <p>
     @university of waterloo
+
+    reach out: thomaslenh@gmail.com
   </p>
  
   
