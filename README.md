@@ -1,7 +1,7 @@
 <div>
   <h1> <strong>👋 hi, i'm thomas </strong></h1>
   <p>
-    @university of waterloo
+    i study at the university of waterloo and am a software engineer 
 
     thomaslenh@gmail.com
   </p>
